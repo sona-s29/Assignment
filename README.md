@@ -29,7 +29,6 @@ A responsive, modern, and beginner-friendly NGO website that includes a **Home p
 - ⚛️ React (with functional components)
 - 🎨 Tailwind CSS (utility-first styling)
 - ⚡ Vite (fast React build tool)
-- 🧪 Git & GitHub for version control
 
 ---
 
