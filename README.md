@@ -14,7 +14,7 @@ A responsive, modern, and beginner-friendly NGO website that includes a **Home p
 
 ![Home Page](./src/assets/home.png)
 ![About Us](./src/assets/about.png)
-![Volunteer Form](./src/assets/form.png)
+![Volunteer Form](./src/assets/volunteer.png)
 
 ---
 
