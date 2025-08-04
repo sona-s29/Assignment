@@ -4,12 +4,6 @@ A responsive, modern, and beginner-friendly NGO website that includes a **Home p
 
 ---
 
-## 🔗 Live Demo
-
-> 🌐 [View Live Website](https://your-deployed-link.com)
-
----
-
 ## 📸 Screenshots
 
 ![Home Page](./src/assets/home.png)
@@ -48,7 +42,7 @@ ngo-website/
 │ ├── assets/
 │ │ ├── home.png
 │ │ ├── about.png
-│ │ └── form.png
+│ │ └── volunteer.png
 │ │
 │ ├── components/
 │ │ ├── Navbar.jsx
